@@ -14,7 +14,6 @@ class Anagram
       if w_a.split("").sort == sorted_words
       end
       word
-
   end
 
 end
